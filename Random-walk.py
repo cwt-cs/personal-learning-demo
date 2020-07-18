@@ -1,8 +1,6 @@
 # personal-learning-demo
 #compile with python php JavaScript  html css and the others (languages) will be update.
 
-
-
 from random import choice  
 import numpy as np
 class Randomwalk():
